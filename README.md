@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishitajain2512
 - 👀 I’m interested in Machine Learning and Frontend Development
-- 🌱 I’m currently HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me : mail me at jainishita2512@gmail.com
 
 <!---
