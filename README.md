@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Ishita Jain**
+# 🤖 Hello World! I’m **Ishita Jain** | Turning Ideas into Code ⚡  
 
 💻 Software Engineer | ⚡ Full-Stack Developer | 🤖 AI/ML Enthusiast  
 📍 Noida, India  
