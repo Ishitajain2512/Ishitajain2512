@@ -1,10 +1,8 @@
 # 🤖 Hello World! I’m **Ishita Jain** | Turning Ideas into Code ⚡  
 
 💻 Software Engineer | ⚡ Full-Stack Developer | 🤖 AI/ML Enthusiast  
-📍 Noida, India  
 
-📧 [jainishita2512@gmail.com](mailto:jainishita2512@gmail.com) | 📞 +91-96548-35850  
-🌐 [GitHub](https://github.com/Ishitajain2512) | 🔗 [LinkedIn](https://www.linkedin.com/in/ishita-jain-609669205/)  
+📧 [jainishita2512@gmail.com](mailto:jainishita2512@gmail.com) | 📞 +91-96548-35850  | 🌐 [GitHub](https://github.com/Ishitajain2512) | 🔗 [LinkedIn](https://www.linkedin.com/in/ishita-jain-609669205/)  
 
 ---
 
@@ -122,13 +120,6 @@
 - 🟩 [HackerRank](https://www.hackerrank.com/profile/jainishita2512)  
 - 🍴 [CodeChef](https://www.codechef.com/users/ishitajain2512)  
 - 🧠 [LeetCode](https://leetcode.com/u/jainishita2512/)  
-
----
-
-## 📊 GitHub Stats  
-
-![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishitajain2512&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitajain2512&layout=compact&theme=tokyonight)  
 
 ---
 
