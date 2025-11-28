@@ -30,7 +30,7 @@
 ## 💼 Experience  
 
 - **👩‍💻 Software Engineer — ICCS (Nov 2024 – Present)**  
-  - Led projects to automate manual tasks using **Django, MySQL, Docker, Grafana**  
+  - Led projects to automate manual tasks using **Django, MySQL, Docker, Grafana, Apache Airflow, Clickhouse, Python, Redis, Selenium**  
   - Lowered manual overhead by **95%**  
 
 - **📊 AI Model Trainer & Math Expert — Outlier (Oct 2024 – Dec 2024)**  
@@ -38,7 +38,7 @@
   - Improved model efficiency by **95%**  
 
 - **☁️ Associate Software Engineer — Accenture (Jul 2024 – Sep 2024)**  
-  - Gained exposure to **Cloud, ML, GenAI, and SAP ABAP**  
+  - Gained exposure to **Cloud, AI/ML, GenAI, and SAP ABAP**  
 
 ---
 
