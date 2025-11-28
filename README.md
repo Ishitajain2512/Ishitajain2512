@@ -2,7 +2,7 @@
 
 💻 Software Engineer | ⚡ Full-Stack Developer | 🤖 AI/ML Enthusiast  
 
-📧 [jainishita2512@gmail.com](mailto:jainishita2512@gmail.com) | 📞 +91-96548-35850  | 🌐 [GitHub](https://github.com/Ishitajain2512) | 🔗 [LinkedIn](https://www.linkedin.com/in/ishita-jain-609669205/)  
+📧 [jainishita2512@gmail.com](mailto:jainishita2512@gmail.com) | 🌐 [GitHub](https://github.com/Ishitajain2512) | 🔗 [LinkedIn](https://www.linkedin.com/in/ishita-jain-609669205/)  
 
 ---
 
