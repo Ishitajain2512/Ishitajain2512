@@ -115,6 +115,7 @@
 
 ## 📖 Publications  
 
+- 📑 *Ethical Decision-Making in Yoga Posture Detection through AI: Fostering Responsible Technology Integration* — Scrivener Publishing (July 2025)
 - 📑 *Machine Learning for Forecast of Weather* — IEC Journal (Mar 2023)  
 - 📑 *A Survey Analysis of COVID-19 pandemic using Machine Learning* — Elsevier Proceedings (Aug 2022)  
 
