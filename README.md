@@ -37,7 +37,9 @@
 
 ## 💼 Experience  
 
-- **👩‍💻 Software Engineer — ICCS (Nov 2024 – Present)**  
+- **👩‍💻 SDE I — Blinkit (Feb 2026 - Present)**  
+  
+- **👩‍💻 Software Engineer — ICCS (Nov 2024 – Feb 2026)**  
   - Led projects to automate manual tasks using **Django, MySQL, Docker, Grafana, Apache Airflow, Clickhouse, Python, Redis, Selenium**  
   - Lowered manual overhead by **95%**  
 
